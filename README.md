@@ -6,4 +6,4 @@ This can be solved using only color data or also 3D information.
 This is a simple computer vision application that takes in input a color image together with the corresponding depth map
 and is able to count the number of people in the scene. 
 
-PDF report: <a href="https://drive.google.com/file/d/1O-s3tCEzMWmsYfOcrqRwjgM8tOKoszd0/view?usp=sharing" target="blank">slides</a>
+PDF report: https://drive.google.com/file/d/1O-s3tCEzMWmsYfOcrqRwjgM8tOKoszd0/view?usp=sharing
